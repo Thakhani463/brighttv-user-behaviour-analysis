@@ -1,6 +1,6 @@
 # BrightTV User Behavior Analysis
 
-## 📌 Objective
+##  Objective
 This project analyzes BrightTV user viewing behavior to identify usage trends, key drivers of consumption, and provide data-driven recommendations to improve user engagement and increase subscriptions.
 
 ---
