@@ -5,7 +5,7 @@ This project analyzes BrightTV user viewing behavior to identify usage trends, k
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - Databricks SQL (Data cleaning & transformation)
 - Microsoft Excel (Analysis & visualization)
 - Miro (Project planning)
@@ -14,7 +14,7 @@ This project analyzes BrightTV user viewing behavior to identify usage trends, k
 
 ---
 
-## 📊 Project Structure
+## Project Structure
 
 ### 1. Project Description & Raw Data
 Contains the case study document and original datasets used for analysis.
@@ -33,7 +33,7 @@ Contains the final presentation slides summarizing insights and recommendations.
 
 ---
 
-## 🔍 Key Analysis Performed
+## Key Analysis Performed
 - Viewing trends by day, time, and hour
 - User segmentation by age, gender, and province
 - Content performance analysis
@@ -42,7 +42,7 @@ Contains the final presentation slides summarizing insights and recommendations.
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Peak viewing occurs during evening hours
 - Certain age groups drive the majority of engagement
 - Specific content categories dominate user preference
@@ -50,7 +50,7 @@ Contains the final presentation slides summarizing insights and recommendations.
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 - Promote top-performing content on low-consumption days
 - Target high-engagement age groups with personalized marketing
 - Optimize content scheduling during peak hours
@@ -58,5 +58,5 @@ Contains the final presentation slides summarizing insights and recommendations.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how data analytics can be used to understand user behavior and support strategic decision-making for digital platforms like BrightTV.
